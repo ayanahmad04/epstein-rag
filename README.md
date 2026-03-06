@@ -31,7 +31,7 @@ Process **2M+ document lines → Get grounded answers in seconds**
 
 Below is the Streamlit interface used to query the document knowledge base.
 
-![Epstein Files RAG Demo](assets/demo.png)
+![Epstein Files RAG Demo](assets/epstein1.PNG)
 
 
 # 🎯 Key Features
