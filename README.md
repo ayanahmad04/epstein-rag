@@ -27,6 +27,12 @@ Process **2M+ document lines → Get grounded answers in seconds**
 - Generates answers using **LLMs**
 
 ---
+## 📸 Application Demo
+
+Below is the Streamlit interface used to query the document knowledge base.
+
+![Epstein Files RAG Demo](assets/demo.png)
+
 
 # 🎯 Key Features
 
